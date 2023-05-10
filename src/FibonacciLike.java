@@ -26,4 +26,3 @@ public class FibonacciLike implements Fibonacci, Runnable {
        }
     }
 }
-
