@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Fibonacci Sequence started!");
+        System.out.println("Fibonacci Sequence has started!");
         FibonacciLike fibonacci1 = new FibonacciLike(5, 0, 1);
         FibonacciLike fibonacci2 = new FibonacciLike(5, 5, 8);
         Thread fibonacciThread1 = new Thread(fibonacci1);
